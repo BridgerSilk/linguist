@@ -861,6 +861,8 @@ vendor/grammars/mint-vscode:
 - source.mint
 vendor/grammars/mlir-grammar:
 - source.mlir
+vendor/grammars/mml-syntax:
+- source.mml
 vendor/grammars/mojo-syntax:
 - source.mojo
 vendor/grammars/monkey:
